@@ -12,6 +12,14 @@ Asisten AI bernama asisten rahmat yang membantu menjelaskan istilah IT & Data Sc
 ## Cara Pakai
 1. Pasang dependensi:
 
+Gunakan Python 3.12
+
+install dlu streamlit dan langchainnya nya dengan cara 
+bash
+"python -m pip install streamlit" dan "python -m pip install langchain_groq"
+
+kemudian 
+
 ```bash
 pip install -r requirements.txt
 ```
