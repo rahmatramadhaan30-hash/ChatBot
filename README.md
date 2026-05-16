@@ -15,8 +15,14 @@ Asisten AI bernama asisten rahmat yang membantu menjelaskan istilah IT & Data Sc
 Gunakan Python 3.12
 
 install dlu streamlit dan langchainnya nya dengan cara 
-bash
-"python -m pip install streamlit" dan "python -m pip install langchain_groq"
+
+```bash
+python -m pip install langchain_groq
+```
+
+```bash
+python -m pip install streamlit
+```
 
 kemudian 
 
